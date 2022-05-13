@@ -1,0 +1,7 @@
+This notebooks contains the Python implmentation of logistic regression. Specifically,
+ Un-regularized logistic regression. 
+ Regularized logistic regression. 
+ Vizualization of decision boundary.
+ Model testing and evaluation.
+ 
+ The datafiles used (ex21.csv and ex22.csv) are taken from the Cousera exercise for logistic regression.
