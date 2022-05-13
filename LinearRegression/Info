@@ -1,0 +1,6 @@
+This notebooks contains the Python implmentation of multiple linear regression. Specifically,
+ Un-regularized linear regression. 
+ Regularized linear regression. 
+ Regression model testing and evaluation.
+ 
+ The datafile used (ex.csv) is taken from the Cousera exercise for multiple linear regression.
